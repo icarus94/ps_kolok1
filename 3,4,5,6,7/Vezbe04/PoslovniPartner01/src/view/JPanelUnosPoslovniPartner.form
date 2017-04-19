@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabelPoslovniPartnerID" max="32767" attributes="0"/>
+                          <Component id="jLabelMaticniBroj" pref="114" max="32767" attributes="0"/>
+                          <Component id="jLabelPIB" max="32767" attributes="0"/>
+                          <Component id="jLabelNaziv" max="32767" attributes="0"/>
+                          <Component id="jLabelTelefon" max="32767" attributes="0"/>
+                          <Component id="jLabelUlica" max="32767" attributes="0"/>
+                          <Component id="jLabelBroj" max="32767" attributes="0"/>
+                          <Component id="jLabel1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jTextFieldPoslovniPartnerID" max="32767" attributes="0"/>
+                          <Component id="jTextFieldMaticniBroj" max="32767" attributes="0"/>
+                          <Component id="jTextFieldPIB" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextFieldNaziv" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextFieldTelefon" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextFieldUlica" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextFieldBroj" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jComboBoxMesta" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="228" max="32767" attributes="0"/>
+                      <Component id="jButtonSacuvaj" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jButtonOdustani" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelPoslovniPartnerID" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldPoslovniPartnerID" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelMaticniBroj" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldMaticniBroj" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelPIB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldPIB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelNaziv" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldNaziv" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelTelefon" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldTelefon" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelUlica" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldUlica" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelBroj" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldBroj" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBoxMesta" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButtonSacuvaj" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButtonOdustani" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabelPoslovniPartnerID">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sifra:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelMaticniBroj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Maticni broj:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelPIB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PIB:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelNaziv">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Naziv:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelTelefon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefon:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelUlica">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ulica: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelBroj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Broj: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mesto:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldPoslovniPartnerID">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldMaticniBroj">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldPIB">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldNaziv">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldTelefon">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldUlica">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldBroj">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBoxMesta">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButtonSacuvaj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sacuvaj"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonSacuvajActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButtonOdustani">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Odustani"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
